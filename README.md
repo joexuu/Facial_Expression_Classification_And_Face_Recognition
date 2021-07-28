@@ -9,16 +9,16 @@ To download the RaFD dataset, you must request access to the dataset from the Ra
 
 ![final](https://user-images.githubusercontent.com/43111766/127260454-cb826b66-ec1c-4b2b-8b0f-33c03d7af1e6.JPG)
 ****
-**Preprocessing RaDF**
+**Preprocessing RaDF**  
 python prepare_data.py
 
-**Train and Eval model**
+**Train and Eval model**  
 python train_emotion_model.py
 
-**Accurary**
+**Accurary**  
 Model：Resnet50 91.88%
 
-**predit the emotion and recognition the face**
+**predit the emotion and recognition the face**  
 python classify_and_recognition.py
 
 
